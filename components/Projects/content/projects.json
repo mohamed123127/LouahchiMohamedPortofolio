@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "title": "All-in-One Business Suite",
+      "description": "A multi-tenant SaaS platform for inventory, sales, orders and more. Built to handle complex business workflows with real-time updates.",
+      "image": "/resources/images/project-business.jpg",
+      "tags": ["Next.js", "NestJS", "PostgreSQL"],
+      "liveUrl": "https://github.com/mohamedlouahchi",
+      "repoUrl": "https://github.com/mohamedlouahchi"
+    },
+    {
+      "title": "University Exams Planner",
+      "description": "Automatic exam scheduling system with conflict resolution and invigilation management. Used by university staff to plan exam sessions.",
+      "image": "/resources/images/project-exams.jpg",
+      "tags": ["React", "FastAPI", "PostgreSQL"],
+      "liveUrl": "https://github.com/mohamedlouahchi",
+      "repoUrl": "https://github.com/mohamedlouahchi"
+    },
+    {
+      "title": "Travel Discovery Platform",
+      "description": "A web app for discovering amazing places with personalized recommendations powered by smart filtering and curated destination data.",
+      "image": "/resources/images/project-travel.jpg",
+      "tags": ["Next.js", "TypeScript", "Tailwind CSS"],
+      "liveUrl": "https://github.com/mohamedlouahchi",
+      "repoUrl": "https://github.com/mohamedlouahchi"
+    }
+  ]
+}

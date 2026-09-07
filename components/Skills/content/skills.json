@@ -1,0 +1,272 @@
+{
+  "favoriteSkills": [
+    {
+      "name": "TypeScript",
+      "icon": "SiTypescript",
+      "color": "#3178C6"
+    },
+    {
+      "name": "NestJS",
+      "icon": "SiNestjs",
+      "color": "#E0234E"
+    },
+    {
+      "name": "Next.js",
+      "icon": "SiNextdotjs",
+      "color": "#000000"
+    },
+    {
+      "name": "React",
+      "icon": "SiReact",
+      "color": "#61DAFB"
+    },
+    {
+      "name": "Node.js",
+      "icon": "SiNodedotjs",
+      "color": "#339933"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "SiPostgresql",
+      "color": "#4169E1"
+    },
+    {
+      "name": "Docker",
+      "icon": "SiDocker",
+      "color": "#2496ED"
+    },
+    {
+      "name": "Git",
+      "icon": "SiGit",
+      "color": "#F05032"
+    }
+  ],
+  "principles": [
+    "Clean Architecture",
+    "SOLID Principles",
+    "Design Patterns",
+    "DRY Principle",
+    "Clean Code",
+    "RESTful APIs",
+    "Microservices Architecture",
+    "Agile / Scrum"
+  ],
+  "allSkills": [
+    {
+      "name": "TypeScript",
+      "icon": "SiTypescript",
+      "color": "#3178C6",
+      "category": "frontend"
+    },
+    {
+      "name": "React",
+      "icon": "SiReact",
+      "color": "#61DAFB",
+      "category": "frontend"
+    },
+    {
+      "name": "Next.js",
+      "icon": "SiNextdotjs",
+      "color": "#000000",
+      "category": "frontend"
+    },
+    {
+      "name": "JavaScript",
+      "icon": "SiJavascript",
+      "color": "#F7DF1E",
+      "category": "frontend"
+    },
+    {
+      "name": "HTML5",
+      "icon": "FaHtml5",
+      "color": "#E34F26",
+      "category": "frontend"
+    },
+    {
+      "name": "CSS3",
+      "icon": "FaCss3Alt",
+      "color": "#1572B6",
+      "category": "frontend"
+    },
+    {
+      "name": "TailwindCSS",
+      "icon": "SiTailwindcss",
+      "color": "#06B6D4",
+      "category": "frontend"
+    },
+    {
+      "name": "NestJS",
+      "icon": "SiNestjs",
+      "color": "#E0234E",
+      "category": "backend"
+    },
+    {
+      "name": "Node.js",
+      "icon": "SiNodedotjs",
+      "color": "#339933",
+      "category": "backend"
+    },
+    {
+      "name": "Express.js",
+      "icon": "SiExpress",
+      "color": "#000000",
+      "category": "backend"
+    },
+    {
+      "name": "FastAPI",
+      "icon": "SiFastapi",
+      "color": "#009688",
+      "category": "backend"
+    },
+    {
+      "name": "Python",
+      "icon": "SiPython",
+      "color": "#3776AB",
+      "category": "backend"
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "SiPostgresql",
+      "color": "#4169E1",
+      "category": "backend"
+    },
+    {
+      "name": "MongoDB",
+      "icon": "SiMongodb",
+      "color": "#47A248",
+      "category": "backend"
+    },
+    {
+      "name": "Redis",
+      "icon": "SiRedis",
+      "color": "#DC382D",
+      "category": "backend"
+    },
+    {
+      "name": "React Native",
+      "icon": "SiReact",
+      "color": "#61DAFB",
+      "category": "mobile"
+    },
+    {
+      "name": "Flutter",
+      "icon": "SiFlutter",
+      "color": "#02569B",
+      "category": "mobile"
+    },
+    {
+      "name": "Android (Kotlin)",
+      "icon": "SiKotlin",
+      "color": "#7F52FF",
+      "category": "mobile"
+    },
+    {
+      "name": "iOS (Swift)",
+      "icon": "SiSwift",
+      "color": "#F05138",
+      "category": "mobile"
+    },
+    {
+      "name": "PyTorch",
+      "icon": "SiPytorch",
+      "color": "#EE4C2C",
+      "category": "mldl"
+    },
+    {
+      "name": "TensorFlow",
+      "icon": "SiTensorflow",
+      "color": "#FF6F00",
+      "category": "mldl"
+    },
+    {
+      "name": "Scikit-Learn",
+      "icon": "SiScikitlearn",
+      "color": "#F7931E",
+      "category": "mldl"
+    },
+    {
+      "name": "Pandas",
+      "icon": "SiPandas",
+      "color": "#150458",
+      "category": "mldl"
+    },
+    {
+      "name": "NumPy",
+      "icon": "SiNumpy",
+      "color": "#013243",
+      "category": "mldl"
+    },
+    {
+      "name": "OpenCV",
+      "icon": "SiOpencv",
+      "color": "#5C3EE8",
+      "category": "mldl"
+    },
+    {
+      "name": "Docker",
+      "icon": "SiDocker",
+      "color": "#2496ED",
+      "category": "tools"
+    },
+    {
+      "name": "Git",
+      "icon": "SiGit",
+      "color": "#F05032",
+      "category": "tools"
+    },
+    {
+      "name": "Linux",
+      "icon": "SiLinux",
+      "color": "#FCC624",
+      "category": "tools"
+    },
+    {
+      "name": "Postman",
+      "icon": "SiPostman",
+      "color": "#FF6C37",
+      "category": "tools"
+    },
+    {
+      "name": "Clean Architecture",
+      "icon": "FaCogs",
+      "color": "#2563EB",
+      "category": "principles"
+    },
+    {
+      "name": "SOLID Principles",
+      "icon": "FaCode",
+      "color": "#22C55E",
+      "category": "principles"
+    },
+    {
+      "name": "Design Patterns",
+      "icon": "FaTools",
+      "color": "#9333EA",
+      "category": "principles"
+    },
+    {
+      "name": "DRY Principle",
+      "icon": "FaSyncAlt",
+      "color": "#3B82F6",
+      "category": "principles"
+    },
+    {
+      "name": "Clean Code",
+      "icon": "FaCheckDouble",
+      "color": "#10B981",
+      "category": "principles"
+    },
+    {
+      "name": "RESTful APIs",
+      "icon": "FaNetworkWired",
+      "color": "#F59E0B",
+      "category": "principles"
+    },
+    {
+      "name": "Microservices",
+      "icon": "FaServer",
+      "color": "#6366F1",
+      "category": "principles"
+    }
+  ]
+}
