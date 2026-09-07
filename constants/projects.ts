@@ -27,7 +27,7 @@ export const projects: Project[] = [
     description:
       "A large-scale multi-platform inventory and sales system for web and desktop with order tracking, shipping API integrations, and real-time synchronization.",
     image:
-      "/resources/images/Projects/All-in-OneBusinessSuiteSaas/main.png",
+      "/resources/images/Projects/All-in-OneBusinessSuiteSaas/Main.png",
     tags: ["WPF", ".NET Core", "Next.js", "Tailwind CSS", "SQL Server"],
     liveUrl: "/Projects/EasyEcommerce",
     repoUrl: "",
