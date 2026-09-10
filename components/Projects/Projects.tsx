@@ -1,6 +1,6 @@
 import { FiArrowRight } from "react-icons/fi";
 import ProjectCard from "./ProjectCard";
-import { projects } from "@/constants";
+import { projects, socialLinks } from "@/constants";
 
 export default function Projects() {
   return (
@@ -17,7 +17,7 @@ export default function Projects() {
             </h2>
           </div>
           <a
-            href="https://github.com/mohamedlouahchi"
+            href={socialLinks[0].href}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1 text-[var(--primary)] font-semibold text-xs md:text-sm hover:underline mt-4 shrink-0"
@@ -40,6 +40,8 @@ export default function Projects() {
               period={project.period}
               isFeatured={project.featured}
               isBuilding={project.isBuilding}
+              isReadyClientPreview={project.isReadyClientPreview}
+              isReadyRecruteurPreview={project.isReadyRecruteurPreview}
             />
           ))}
         </div>

@@ -8,6 +8,8 @@ export interface Project {
   period: string;
   featured?: boolean;
   isBuilding?: boolean;
+  isReadyClientPreview?: boolean;
+  isReadyRecruteurPreview?: boolean;
 }
 
 export const projects: Project[] = [
@@ -18,9 +20,11 @@ export const projects: Project[] = [
     image:
       "/resources/images/Projects/University-Request-Management-System/main.png",
     tags: ["React", "Tailwind CSS", "PHP", "MySQL"],
-    liveUrl: "/Projects/UniversityRequestManagementSystem",
+    liveUrl: "",
     repoUrl: "",
     period: "Dec 2025 - Mar 2026",
+    isReadyClientPreview: false,
+    isReadyRecruteurPreview: false,
   },
   {
     title: "All-in-One Business Suite Saas",
@@ -29,12 +33,13 @@ export const projects: Project[] = [
     image:
       "/resources/images/Projects/All-in-OneBusinessSuiteSaas/Main.png",
     tags: ["WPF", ".NET Core", "Next.js", "Tailwind CSS", "SQL Server"],
-    liveUrl: "/Projects/EasyEcommerce",
+    liveUrl: "/Projects/All-in-OneBusinessSuiteSaas",
     repoUrl: "",
     period: "Aug 2026 - Present",
     isBuilding: true,
     featured: true,
-
+    isReadyClientPreview: false,
+    isReadyRecruteurPreview: true,
   },
   {
     title: "Ecommerce Store",
@@ -53,5 +58,7 @@ export const projects: Project[] = [
     liveUrl: "",
     repoUrl: "https://github.com/mohamed123127/ClotingStore",
     period: "Juin 2026 - Sep 2026",
+    isReadyClientPreview: false,
+    isReadyRecruteurPreview: false,
   },
 ];
