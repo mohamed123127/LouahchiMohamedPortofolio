@@ -32,7 +32,7 @@ export const projects: Project[] = [
       "A large-scale multi-platform inventory and sales system for web and desktop with order tracking, shipping API integrations, and real-time synchronization.",
     image:
       "/resources/images/Projects/All-in-OneBusinessSuiteSaas/Main.png",
-    tags: ["WPF", ".NET Core", "Next.js", "Tailwind CSS", "SQL Server"],
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "NestJs", "TypeORM", "PostgreSQL"],
     liveUrl: "/Projects/All-in-OneBusinessSuiteSaas",
     repoUrl: "",
     period: "Aug 2026 - Present",
